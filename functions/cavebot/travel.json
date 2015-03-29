@@ -1,0 +1,21 @@
+{
+  "name": "travel",
+  "invocations": [
+    {
+    "rettype": null,
+    "args": [
+    {
+      "type": "string",
+      "name": "destin"
+    },
+    {
+      "type": "optional  boolean",
+      "name": "havering"
+    }
+  ],
+  "description": "Travel to the destination. First variable is the name of the city to which you want to travel, and havering is optional value to determine whether you want to travel with Buddel with dwarven ring equipped or not.",
+  "ex": "travel(\"venore\")",
+  "exDescription": "Travels to Venore."
+  }
+  ]
+}
