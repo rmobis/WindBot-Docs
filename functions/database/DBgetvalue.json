@@ -2,7 +2,7 @@
 	"name": "DB:getvalue",
 	"invocations": [
 		{
-			"rettype": "various",
+			"rettype": "database",
 			"args": [
 				{
 					"type": "string",

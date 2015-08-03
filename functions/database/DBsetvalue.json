@@ -2,7 +2,7 @@
 	"name": "DB:setvalue",
 	"invocations": [
 		{
-			"rettype": null,
+			"rettype": "database",
 			"args": [
 				{
 					"type": "string",
@@ -22,7 +22,7 @@
 			"exDescription": "Will store the value 'Bubble' at $chardb, in the location: 'mychars/mainchar'."
 		},
 		{
-			"rettype": null,
+			"rettype": "database",
 			"args": [
 				{
 					"type": "string",
